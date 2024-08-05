@@ -19,7 +19,8 @@ This chatbot is designed to provide intelligent responses to user queries by lev
 
 ## Requirements
 langchain_ollama
-langchain_core
+
+ langchain_core
 
 
 
